@@ -11,6 +11,10 @@ public class fibo {
         //indexing from 0
         if(n<2){
             return n;
+
+
+
+
         }
         return fibo(n-1)+fibo(n-2);
 
