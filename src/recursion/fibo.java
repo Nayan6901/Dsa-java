@@ -10,6 +10,7 @@ public class fibo {
     public static int fibo(int n){
         //indexing from 0
         if(n<2){
+
             return n;
 
 

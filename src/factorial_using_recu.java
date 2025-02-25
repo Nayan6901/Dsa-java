@@ -10,6 +10,8 @@ public class factorial_using_recu{
 
     }
 
+
+
     public static void main(String[] args) {
         System.out.println(fact(5));
     }
