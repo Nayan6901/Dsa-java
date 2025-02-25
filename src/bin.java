@@ -15,7 +15,10 @@ public class bin {
 
                 }else{
                     i=j;
+
+
                     break;
+
 
                 }
             }
