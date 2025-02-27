@@ -1,7 +1,7 @@
 package recursionprac;
 
 public class steps_recur {
-    //basicaly we need to make an counter to count if n is odd then we have to subtract ont
+    //basicaly we need to make counter to count if n is odd then we have to subtract ont
     //else divide by 2;
     public static int steps(int n) {
         return helper(n, 0);
@@ -19,7 +19,7 @@ public class steps_recur {
 
         }
 
-        public static void main (String[]args){
+        public static void main (){
             System.out.println(steps(41));
         }
 
