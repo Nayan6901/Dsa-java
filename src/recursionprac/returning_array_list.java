@@ -20,7 +20,6 @@ public class returning_array_list {
     }
 
     public static void main(String[] args) {
-        int []arr={1,2,3,3,4,5,6};
-        System.out.println(indexof(arr,3,0));
+        int []arr={1,2,3,3,4,5,6};System.out.println(indexof(arr,3,0));
     }
 }
