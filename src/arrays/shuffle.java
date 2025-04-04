@@ -1,7 +1,7 @@
 
 
 
-public class shuffle {
+public class hi {
     public static void main(String[] args) {
         // to find maximum number
         //target is equal to max
@@ -22,7 +22,7 @@ public class shuffle {
         return ans;
     }
 
-}int search(int []nums, int target ,boolean searchfirstindex){
+}public static int search(int []nums, int target ,boolean searchfirstindex){
     int start = 0;
     int end =nums.length - 1;
     int ans =-1;
